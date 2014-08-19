@@ -77,3 +77,13 @@ p{
 
 
 }
+
+.logo-img{
+	max-height: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.logo-section{
+	text-align: center;
+}
