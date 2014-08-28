@@ -49,17 +49,12 @@ p{
 	color:#f8f8f8;
 	background-color: #080419;
 	margin-top: 0px;
+
 }
 
 .an-page-header h1{
 	font-size: 5em;
 	font-family: Oxygen-Bold;
-}
-
-.page-header-beta{
-	padding: 150px;
-	text-align: center;
-	background-color: #080419
 }
 
 .member-box {
